@@ -10,3 +10,13 @@ when we have access to blackboard I make that work as well. - Caleb
 Currently I can log into blackboard just fine, I'm okay with either needing to use a different program or reschedule too. - Trever 
 
 I can log into blackboard but I don't see the blackboard link we can use to call each other, I am also okay with a reschedule or using another program -Daniel
+
+heres a link ->  https://us04web.zoom.us/j/72874872321?pwd=WDFlSnIrK082MUphakNCSVVFeWRjZz09 
+
+and if that doesnt work use this:
+
+Join Zoom Meeting
+https://us04web.zoom.us/j/72874872321?pwd=WDFlSnIrK082MUphakNCSVVFeWRjZz09
+
+Meeting ID: 728 7487 2321
+Passcode: hdLfD2
